@@ -11,3 +11,7 @@ Sensitive data such as consent forms, interview transcripts, raw survey data con
 ### 3. Why is it important to have a good naming convention?
 
 A good naming convention makes files easier to identify, search, and organise. Clear and consistent file names also reduce confusion, help track different versions, and make collaboration and long-term project management more reliable.
+
+### 4. Under what scenarios would creating a new branch be useful?
+
+Creating a new branch is useful when a team member wants to develop a new feature, test changes, or fix an issue without affecting the main version of the project. It is also useful in collaborative work because multiple people can make changes independently and merge them into the main branch after review.
