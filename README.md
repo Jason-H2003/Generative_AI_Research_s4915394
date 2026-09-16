@@ -1,23 +1,13 @@
-# Generative_AI_Research_s4915394
-Research data management project for REIT6811 Applied Class 6
+## Research Data Management Questions
 
+### 1. Explain why it is important to store and organise your files efficiently.
 
-## Project Structure
+Efficient file storage and organisation make it easier to find the correct data, documents, and scripts when needed. A clear folder structure also reduces duplication, prevents the use of outdated files, and makes collaboration between research team members more efficient.
 
-- `Literature_Review/` – Journal articles, conference papers, books, and other literature.
-- `Quantitative_Analysis/` – Survey data, survey questions, analysis scripts, and quantitative analysis reports.
-- `Qualitative_Analysis/` – Interview transcripts, interview protocols, consent forms, analysis reports, and data visualisations.
-- `Drafts_and_Reports/` – Draft research proposals, conference papers, and final reports.
-- `Additional_Materials/` – Information sheets, photos, and other supporting media.
+### 2. Specify which data types may require special access control.
 
-## Data Access
+Sensitive data such as consent forms, interview transcripts, raw survey data containing participant information, demographics, and identifiable photos may require special access control. These files should only be available to authorised research team members and should be stored securely to protect participant privacy and research confidentiality.
 
-Sensitive research data, including consent forms, interview transcripts, identifiable participant data, and private media, should be stored securely and accessed only by authorised research team members.
+### 3. Why is it important to have a good naming convention?
 
-## Version Control
-
-Changes to project files should be committed with clear and meaningful commit messages. Major updates should describe what files were added, modified, or reorganised.
-
-## Collaboration
-
-Collaborators should maintain the existing folder structure and use clear file names. Changes should be reviewed before being merged into the main branch.
+A good naming convention makes files easier to identify, search, and organise. Clear and consistent file names also reduce confusion, help track different versions, and make collaboration and long-term project management more reliable.
